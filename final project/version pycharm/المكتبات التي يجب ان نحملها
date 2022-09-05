@@ -1,8 +1,7 @@
-حاصة بتريب الشبكة :
 tensorflow
 keras
 sklearn
 numpy
-opencv== لكي نختبر النمودج
+opencv
 serial == خاصة بارسال البيانات للاردوينو لفتح الباب
 
